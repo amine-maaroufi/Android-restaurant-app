@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.8.0_972410a8dd6a6a01d06c2e6b16d670bcf1a4fe6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-7.8.0_0df8e7e5afeb9814432f96bda7847ee119196313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-7.8.0_d4a5e60d6006c2d2596ff09f935bcd1ec3aee5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-7.8.0_6b4014fc6c96f5d15f2f5f9370bf6394c55746ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.8.0_2029cdf81d00b656a039a91634fbc29ae8157c00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-7.8.0_3bc27cae328147b7509e72924f186c65f8b1cdb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.8.0_315df6e3052dda88bfa423ce60455569c3fef040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.8.0_9a6e8736f5694bfb1e6890ca0dc26e66431e51d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-7.8.0_aa017c7f6f9be697d8cafb747c4d294398f84f50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.8.0_0256aef028b871326af0d2474dff700768feb1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_28cb3a68044150757695dca9d746f4d84649db2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_d1638c6e814891f9604803464ba50b54f4c10c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_8f1f0b3d64ae7f2bc67dfa425ce88d0828c94422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_daf0a25b4de31b468f32357cb3c509945c61be04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-7.8.0_5fc8638f312ade397facd8cd75be593fc0a9e486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.8.0_d7cf4cd6be85a9a24fbe2e87fb1d3efaedc1c372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-7.8.0_04149a0f7ea47e1cc45c8732085d6178fe07bc08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_0089e5888065be3fd57295c0165257be5b1efed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appstate-7.8.0_51c5f8c37e7125f671a0c4d329fa35457d1aa17c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.8.0_5fb87ecdc1798dcca7201373357409b068a4a3b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-7.8.0_86a4f00917d7298db1fa9a2e769621b45f9c72ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-7.8.0_a2bcce34b8a2c85b836d6a83f47549821f4189e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.8.0_8164e95a9150d5bbd603a98ca6edc2db648fc544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-7.8.0_aa73783047b628dee53ed09072101a73c6f2e02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-7.8.0_31297ac07b34a25c1794ef3824f1c0012f6ec609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.8.0_154717ce72445c6611575ef991dc447a2ad5cc85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Allah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Allah\AndroidStudioProjects\Android-restaurant-app-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_4323df85c375ffd0894c719df6f698696f4c45ac.jar" />
+    </item>
+
+</items>
